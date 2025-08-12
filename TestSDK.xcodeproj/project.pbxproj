@@ -59,10 +59,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DECDDACC2E4B6F6800808526 = {
+		DE7245F62E4B8B6D0034D03D /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				DECDDAD82E4B6F6800808526 /* TestSDK */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		DECDDACC2E4B6F6800808526 = {
+			isa = PBXGroup;
+			children = (
+				DE7245F62E4B8B6D0034D03D /* Sources */,
 				DECDDAE52E4B6F6800808526 /* TestSDKTests */,
 				DECDDAD72E4B6F6800808526 /* Products */,
 			);
