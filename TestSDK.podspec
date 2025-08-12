@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   # 1. Khai báo dependency cho Amazon SDK (SPM)
   # Đây là cách bạn nói với CocoaPods rằng pod của bạn phụ thuộc vào một Swift Package
-  s.dependency 'AmplifyUILiveness', '~> 1.4.2' # Ví dụ, thay thế bằng các module AWS bạn cần
+  #s.dependency 'AmplifyUILiveness', '~> 1.4.2' # Ví dụ, thay thế bằng các module AWS bạn cần
   
 
   # 2. Khai báo dependency cho BluetoothIO.xcframework (Binary Framework đã build sẵn)
