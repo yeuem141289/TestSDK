@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'TestSDK'
+  s.name             = 'TestSDK112443'
   s.version          = '1.0.0'
   s.summary          = 'A short description of MyPod.'
   s.description      = <<-DESC
