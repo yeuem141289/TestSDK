@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE7245FB2E4B8C2E0034D03D /* TestSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7245F72E4B8C2E0034D03D /* TestSDK.swift */; };
+		DE7245FC2E4B8C2E0034D03D /* Untitled.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7245F82E4B8C2E0034D03D /* Untitled.swift */; };
 		DECDDAE22E4B6F6800808526 /* TestSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DECDDAD62E4B6F6800808526 /* TestSDK.framework */; };
 		DEE0F54C2E4B7445006EB705 /* FaceLiveness in Frameworks */ = {isa = PBXBuildFile; productRef = DEE0F54B2E4B7445006EB705 /* FaceLiveness */; };
 /* End PBXBuildFile section */
@@ -22,16 +24,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE7245F72E4B8C2E0034D03D /* TestSDK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSDK.swift; sourceTree = "<group>"; };
+		DE7245F82E4B8C2E0034D03D /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
 		DECDDAD62E4B6F6800808526 /* TestSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TestSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DECDDAE12E4B6F6800808526 /* TestSDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestSDKTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DECDDAD82E4B6F6800808526 /* TestSDK */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TestSDK;
-			sourceTree = "<group>";
-		};
 		DECDDAE52E4B6F6800808526 /* TestSDKTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = TestSDKTests;
@@ -59,10 +58,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DE7245F62E4B8B6D0034D03D /* Sources */ = {
+		DE7245F92E4B8C2E0034D03D /* TestSDK */ = {
 			isa = PBXGroup;
 			children = (
-				DECDDAD82E4B6F6800808526 /* TestSDK */,
+				DE7245F72E4B8C2E0034D03D /* TestSDK.swift */,
+				DE7245F82E4B8C2E0034D03D /* Untitled.swift */,
+			);
+			path = TestSDK;
+			sourceTree = "<group>";
+		};
+		DE7245FA2E4B8C2E0034D03D /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				DE7245F92E4B8C2E0034D03D /* TestSDK */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -70,9 +78,9 @@
 		DECDDACC2E4B6F6800808526 = {
 			isa = PBXGroup;
 			children = (
-				DE7245F62E4B8B6D0034D03D /* Sources */,
 				DECDDAE52E4B6F6800808526 /* TestSDKTests */,
 				DECDDAD72E4B6F6800808526 /* Products */,
+				DE7245FA2E4B8C2E0034D03D /* Sources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,9 +118,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				DECDDAD82E4B6F6800808526 /* TestSDK */,
 			);
 			name = TestSDK;
 			packageProductDependencies = (
@@ -208,6 +213,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE7245FB2E4B8C2E0034D03D /* TestSDK.swift in Sources */,
+				DE7245FC2E4B8C2E0034D03D /* Untitled.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
