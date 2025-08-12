@@ -2,10 +2,8 @@ Pod::Spec.new do |s|
   s.name             = 'TestSDK'
   s.version          = '1.0.0'
   s.summary          = 'A short description of MyPod.'
-  s.description      = <<-DESC
-                       A longer description of MyPod that does not need to match s.summary,
-                       and can be several lines long.
-                       DESC
+  s.description      = 'dep trai'
+                       
   s.homepage         = 'https://github.com/yeuem141289/TestSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' } # Đảm bảo bạn có file LICENSE
   s.author           = { 'Your Name' => 'your-email@example.com' }
