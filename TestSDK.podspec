@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '14.0' # Hoặc phiên bản iOS tối thiểu mà bạn hỗ trợ
 
   s.source           = { :git => 'https://github.com/yeuem141289/TestSDK.git', :tag => s.version.to_s }
-  s.source_files     = 'Sources/MyPodSource/**/*.{h,m,swift}' # Đường dẫn đến mã nguồn Swift của bạn
+  s.source_files     = 'TestSDK/**/*.{h,m,swift}' # Đường dẫn đến mã nguồn Swift của bạn
 
   s.swift_version    = '6.0' # Phiên bản Swift bạn sử dụng
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   # 1. Khai báo dependency cho Amazon SDK (SPM)
   # Đây là cách bạn nói với CocoaPods rằng pod của bạn phụ thuộc vào một Swift Package
-  s.dependency 'AmplifyUILiveness', '~> 2.26.0' # Ví dụ, thay thế bằng các module AWS bạn cần
+  s.dependency 'AmplifyUILiveness', '~> 1.4.2' # Ví dụ, thay thế bằng các module AWS bạn cần
   
 
   # 2. Khai báo dependency cho BluetoothIO.xcframework (Binary Framework đã build sẵn)
