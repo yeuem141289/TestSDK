@@ -67,20 +67,12 @@
 			path = TestSDK;
 			sourceTree = "<group>";
 		};
-		DE7245FA2E4B8C2E0034D03D /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-				DE7245F92E4B8C2E0034D03D /* TestSDK */,
-			);
-			path = Sources;
-			sourceTree = "<group>";
-		};
 		DECDDACC2E4B6F6800808526 = {
 			isa = PBXGroup;
 			children = (
 				DECDDAE52E4B6F6800808526 /* TestSDKTests */,
 				DECDDAD72E4B6F6800808526 /* Products */,
-				DE7245FA2E4B8C2E0034D03D /* Sources */,
+				DE7245F92E4B8C2E0034D03D /* TestSDK */,
 			);
 			sourceTree = "<group>";
 		};

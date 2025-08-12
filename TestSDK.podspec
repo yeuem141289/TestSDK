@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '14.0' # Hoặc phiên bản iOS tối thiểu mà bạn hỗ trợ
 
   s.source           = { :git => 'https://github.com/yeuem141289/TestSDK.git', :tag => s.version.to_s }
-  s.source_files     = 'Sources/TestSDK/**/*.{h,m,swift}' # Đường dẫn đến mã nguồn Swift của bạn
+  s.source_files     = 'TestSDK/**/*.{h,m,swift}' # Đường dẫn đến mã nguồn Swift của bạn
 
   s.swift_version    = '6.0' # Phiên bản Swift bạn sử dụng
 
