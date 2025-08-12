@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                        A longer description of MyPod that does not need to match s.summary,
                        and can be several lines long.
                        DESC
-  s.homepage         = 'hhttps://github.com/yeuem141289/TestSDK'
+  s.homepage         = 'https://github.com/yeuem141289/TestSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' } # Đảm bảo bạn có file LICENSE
   s.author           = { 'Your Name' => 'your-email@example.com' }
   s.ios.deployment_target = '14.0' # Hoặc phiên bản iOS tối thiểu mà bạn hỗ trợ
