@@ -1,3 +1,6 @@
+// swift-tools-version:5.9
+import PackageDescription
+
 // Ví dụ cho SDK tên là MySDK
 let package = Package(
     name: "TestSDK",
