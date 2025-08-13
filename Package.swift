@@ -2,7 +2,7 @@
 let package = Package(
     name: "TestSDK",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(name: "TestSDK", type: .dynamic, targets: ["TestSDK"]), // type: .dynamic
