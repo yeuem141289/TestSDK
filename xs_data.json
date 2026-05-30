@@ -1,4 +1,147 @@
-[
+[{
+    "id": "x2shinshin",
+    "name": "Mitsubishi X-2 Shinshin",
+    "manufacturer": "Mitsubishi Heavy Industries",
+    "country": "japan",
+    "firstFlight": 2016,
+    "introductionYear": 2016,
+    "status": "Technology Demonstrator",
+    "generation": "gen5",
+    "role": "stealth technology demonstrator",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/X-2_first_flight.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mitsubishi_X-2_Shinshin",
+    "description": "Japan's indigenous stealth technology demonstrator developed to validate low-observable shaping, fly-by-light controls, and advanced fighter technologies.",
+    "crew": 1,
+    "length": "14.2 m",
+    "wingspan": "9.1 m",
+    "maxSpeed": "Mach 2.0 (estimated)",
+    "combatRadius": "N/A",
+    "serviceCeiling": "N/A",
+    "engineType": "2× IHI XF5-1 turbofans",
+    "speedMach": 2.0,
+    "combatRadiusKm": 0,
+    "ceilingM": 0,
+    "thrustToWeight": 1.0,
+    "whyItMatters": "The X-2 demonstrated that Japan could independently develop critical stealth-fighter technologies and laid the foundation for the future F-X/GCAP fighter effort.",
+    "historicalContext": "Launched after concerns about access to foreign stealth technology and the cancellation of Japan's interest in acquiring the F-22.",
+    "developmentHistory": "Originally known as the ATD-X program. First flight occurred in April 2016 and validated radar, stealth shaping, and advanced flight-control concepts.",
+    "operationalHistory": "Used solely as a research and development platform by Japan and never entered operational military service.",
+    "operators": [
+      "Japan Acquisition, Technology & Logistics Agency"
+    ],
+    "variants": [
+      "X-2 Shinshin"
+    ],
+    "tags": [
+      "stealth",
+      "technology demonstrator",
+      "Japan",
+      "5th gen",
+      "prototype"
+    ],
+    "similarIds": [
+      "f22",
+      "j20",
+      "x35"
+    ]
+  },
+  {
+    "id": "x32",
+    "name": "Boeing X-32",
+    "manufacturer": "Boeing",
+    "country": "usa",
+    "firstFlight": 2000,
+    "introductionYear": 2000,
+    "status": "Prototype",
+    "generation": "gen5",
+    "role": "JSF prototype",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Boeing_X-32B_JSF.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_X-32",
+    "description": "Boeing's entry into the Joint Strike Fighter competition, featuring a distinctive delta wing and large chin-mounted air intake.",
+    "crew": 1,
+    "length": "13.7 m",
+    "wingspan": "11.0 m",
+    "maxSpeed": "Mach 1.6",
+    "combatRadius": "1,100 km",
+    "serviceCeiling": "15,000 m",
+    "engineType": "1× Pratt & Whitney F119-derived turbofan",
+    "speedMach": 1.6,
+    "combatRadiusKm": 1100,
+    "ceilingM": 15000,
+    "thrustToWeight": 0.95,
+    "whyItMatters": "The X-32 was one of the two finalists in the Joint Strike Fighter competition that ultimately produced the F-35 Lightning II.",
+    "historicalContext": "Developed during the 1990s Joint Strike Fighter program to satisfy Air Force, Navy, and Marine Corps requirements with a common platform.",
+    "developmentHistory": "Competed directly against the Lockheed Martin X-35. Although it demonstrated required capabilities, it lost the competition in 2001.",
+    "operationalHistory": "Remained an experimental aircraft and was never fielded operationally.",
+    "operators": [
+      "Boeing Test Program"
+    ],
+    "variants": [
+      "X-32A",
+      "X-32B STOVL"
+    ],
+    "tags": [
+      "stealth",
+      "prototype",
+      "JSF",
+      "5th gen",
+      "experimental"
+    ],
+    "similarIds": [
+      "x35",
+      "f35",
+      "f22"
+    ]
+  },
+  {
+    "id": "x35",
+    "name": "Lockheed Martin X-35",
+    "manufacturer": "Lockheed Martin",
+    "country": "usa",
+    "firstFlight": 2000,
+    "introductionYear": 2000,
+    "status": "Prototype",
+    "generation": "gen5",
+    "role": "JSF prototype",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/X-35C_JSF.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_X-35",
+    "description": "The winning Joint Strike Fighter prototype that evolved directly into the F-35 Lightning II family.",
+    "crew": 1,
+    "length": "15.4 m",
+    "wingspan": "10.7 m",
+    "maxSpeed": "Mach 1.6",
+    "combatRadius": "1,200 km",
+    "serviceCeiling": "18,000 m",
+    "engineType": "1× Pratt & Whitney F119-derived turbofan with lift-fan demonstrator system",
+    "speedMach": 1.6,
+    "combatRadiusKm": 1200,
+    "ceilingM": 18000,
+    "thrustToWeight": 1.0,
+    "whyItMatters": "The X-35 became the basis of the F-35 program, the largest and most influential fifth-generation fighter program in the world.",
+    "historicalContext": "Developed under the Joint Strike Fighter program to replace numerous US and allied tactical aircraft types with a common stealth platform.",
+    "developmentHistory": "Successfully demonstrated conventional takeoff, carrier suitability concepts, and STOVL flight testing, leading to victory over the Boeing X-32 in 2001.",
+    "operationalHistory": "Served as a flight-test prototype only, but directly led to the operational F-35A, F-35B, and F-35C.",
+    "operators": [
+      "Lockheed Martin Test Program"
+    ],
+    "variants": [
+      "X-35A",
+      "X-35B",
+      "X-35C"
+    ],
+    "tags": [
+      "stealth",
+      "prototype",
+      "JSF",
+      "5th gen",
+      "F-35 predecessor"
+    ],
+    "similarIds": [
+      "f35",
+      "x32",
+      "f22"
+    ]
+  },
   {
     "id": "f22",
     "manufacturer": "Lockheed Martin",
