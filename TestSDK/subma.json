@@ -471,7 +471,7 @@
         "Status: unspecified",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://naval-encyclopedia.com/wp-content/uploads/2019/05/Ming-Classs-BG-HobbyBoss-2000x840.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Bangladesh",
@@ -4539,7 +4539,7 @@
         "Status: WWII",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1524522173746-f628baad3644?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sommergibile_Adua.jpg/1280px-Sommergibile_Adua.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Italy (historical)",
@@ -4550,7 +4550,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/600_Serie_Adua_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adua-class_submarine"
     },
     {
       "id": "imp-italy-historical-marcello-class",
@@ -10659,7 +10659,7 @@
         "Status: historic",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Holland_submarine_model.jpg/1920px-Holland_submarine_model.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10670,7 +10670,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 3,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Holland_class_(USN)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Holland-class_submarine"
     },
     {
       "id": "imp-united-states-a-class-plunger",
@@ -10695,7 +10695,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Hms_a1_submarine.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10706,7 +10706,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 3,
-      "wikiUrl": "https://en.wikipedia.org/wiki/A_class_(Plunger)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/A-class_submarine_(1903)"
     },
     {
       "id": "imp-united-states-b-class",
@@ -10767,7 +10767,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Uss_C-3_1909.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10778,7 +10778,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/C_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_C-class_submarine"
     },
     {
       "id": "imp-united-states-d-class",
@@ -10839,7 +10839,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1533757659567-422998a4425d?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/USS_E-1%3B0802401.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10850,7 +10850,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/E_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_E-class_submarine"
     },
     {
       "id": "imp-united-states-f-class",
@@ -10875,7 +10875,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1547483238-f400e65ccd56?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/USN_F-class_submarines%3Bh63259.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10886,7 +10886,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/F_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_F-class_submarine"
     },
     {
       "id": "imp-united-states-g-class",
@@ -10911,7 +10911,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Uss_G-1_1912.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10922,7 +10922,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/G_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_G-class_submarine"
     },
     {
       "id": "imp-united-states-h-class",
@@ -10947,7 +10947,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/USS_H-1%3BH69853.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10958,7 +10958,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/H_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_H-class_submarine"
     },
     {
       "id": "imp-united-states-k-class",
@@ -10983,7 +10983,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507682531662-421b17ac4f83?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Uss_K-1_1914.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -10994,7 +10994,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/K_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_K-class_submarine"
     },
     {
       "id": "imp-united-states-l-class",
@@ -11019,7 +11019,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/NH-51152_USS_L-1_running_trials.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -11030,7 +11030,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/L_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_L-class_submarine"
     },
     {
       "id": "imp-united-states-m-class",
@@ -11055,7 +11055,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/USS_M-1_%28SS-47%29.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -11066,7 +11066,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/M_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_M-class_submarine"
     },
     {
       "id": "imp-united-states-n-class",
@@ -11091,7 +11091,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/USS_N-7_%28SS-59%29.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -11102,7 +11102,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/N_class"
+      "wikiUrl": "https://en.wikipedia.org/wiki/United_States_N-class_submarine"
     },
     {
       "id": "imp-united-states-o-class",
