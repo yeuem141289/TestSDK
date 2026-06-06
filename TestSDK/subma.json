@@ -8175,7 +8175,7 @@
         "Status: active/building",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://www.hisutton.com/images/Swe_A26_poster.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Sweden",
@@ -8186,7 +8186,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 8,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Blekinge_class_(Type_A-26)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Blekinge-class_submarine"
     },
     {
       "id": "imp-taiwan-hai-lung-class-zwaardvis",
@@ -11919,7 +11919,7 @@
         "Status: decommissioned",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1547483238-f400e65ccd56?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/USS_Seawolf_%28SSN-575%29.jpg/1280px-USS_Seawolf_%28SSN-575%29.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -12495,7 +12495,7 @@
         "Status: active",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg/960px-US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
       "videoYoutubeId": null,
       "tags": [
         "United States",
@@ -12506,7 +12506,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 8,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Virginia_class_(SSN)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Virginia-class_submarine"
     },
     {
       "id": "imp-united-states-columbia-class-ssbn",
