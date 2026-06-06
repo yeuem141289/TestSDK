@@ -507,7 +507,7 @@
         "Status: decommissioned (1913)",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%D0%A1%D1%83%D0%B1%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%A4%D0%BE%D0%BA%D0%B0.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Brazil",
@@ -615,7 +615,7 @@
         "Status: decommissioned",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1533757659567-422998a4425d?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/USS_Greenfish%3B0835105.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Brazil",
@@ -651,7 +651,7 @@
         "Status: decommissioned",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/USS_Greenfish%3B0835105.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Brazil",
@@ -1263,7 +1263,7 @@
         "Status: decommissioned",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://naval-encyclopedia.com/wp-content/uploads/2018/10/Chinese-PLAN-Type-03-whiskey-2000x442.jpg",
       "videoYoutubeId": null,
       "tags": [
         "China",
@@ -1407,7 +1407,7 @@
         "Status: active/retiring",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ming_class_SS.svg/330px-Ming_class_SS.svg.png",
       "videoYoutubeId": null,
       "tags": [
         "China",
@@ -1418,7 +1418,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 8,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Ming_class_(Type_035)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_035_submarine"
     },
     {
       "id": "imp-china-kilo-class",
@@ -1587,7 +1587,7 @@
         "Status: limited service",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1547483238-f400e65ccd56?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Xia_class_SSBN.svg/1920px-Xia_class_SSBN.svg.png",
       "videoYoutubeId": null,
       "tags": [
         "China",
@@ -1598,7 +1598,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 7,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Xia_class_(Type_092,_SSBN)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_092_submarine"
     },
     {
       "id": "imp-china-shang-class-type-093-ssn",
@@ -1623,7 +1623,7 @@
         "Status: active",
         "Indigenous design: yes"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://www.hisutton.com/images/China-Type-093A-SSN-Submarine.jpg",
       "videoYoutubeId": null,
       "tags": [
         "China",
@@ -1634,7 +1634,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 8,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Shang_class_(Type_093,_SSN)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_093_submarine"
     },
     {
       "id": "imp-china-jin-class-type-094-ssbn",
@@ -1670,7 +1670,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 8,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Jin_class_(Type_094,_SSBN)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_094_submarine"
     },
     {
       "id": "imp-colombia-pijao-class-type-209-1200",
@@ -1731,7 +1731,7 @@
         "Status: unspecified",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kure_midget_subs1.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Colombia",
@@ -1742,7 +1742,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Intrepide_class_(Italian_SX_506_midget)"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Midget_submarine"
     },
     {
       "id": "imp-colombia-una-class-midget-modified",
@@ -2595,7 +2595,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/U-66_U-117_Luftangriff.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -2606,7 +2606,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_U-66_(Type_UD)_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_U_66_submarine"
     },
     {
       "id": "imp-germany-imperial-type-u-81-u-boat",
@@ -2631,7 +2631,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/GerSubU-81.jpeg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -2642,7 +2642,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_U-81_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/German_submarine_U-81_(1941)"
     },
     {
       "id": "imp-germany-imperial-type-u-87-u-boat",
@@ -2667,7 +2667,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://www.forposterityssake.ca/JPGs/PHOTO-DIR/CTB-PHOTOS-45000/CTB046779.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -2678,7 +2678,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_U-87_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/German_submarine_U-87_(1941)"
     },
     {
       "id": "imp-germany-imperial-type-u-93-u-boat",
@@ -2703,7 +2703,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1524522173746-f628baad3644?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/German_submarine_U-93.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -2714,7 +2714,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_U-93_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/German_submarine_U-93_(1940)"
     },
     {
       "id": "imp-germany-imperial-type-u-127-u-boat",
@@ -2955,7 +2955,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/SM_UB_45.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -2966,7 +2966,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UB_II_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UB_II_submarine"
     },
     {
       "id": "imp-germany-imperial-type-ub-iii-u-boat",
@@ -3135,7 +3135,7 @@
         "Status: WWI",
         "Indigenous design: no"
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/U995_2004_1_b.jpg",
       "videoYoutubeId": null,
       "tags": [
         "Germany (Imperial)",
@@ -3146,7 +3146,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UE_I_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UE_I_submarine"
     },
     {
       "id": "imp-germany-imperial-type-ue-ii-u-boat",
@@ -3182,7 +3182,7 @@
       ],
       "isBookmarked": false,
       "popularityScore": 6,
-      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UE_II_U-boat"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Type_UE_II_submarine"
     },
     {
       "id": "imp-germany-nazi-wwii-type-i-u-boat",
